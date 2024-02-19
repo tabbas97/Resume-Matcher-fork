@@ -1,3 +1,7 @@
+# Forked from [Saurabh Rai's implementation](https://github.com/srbhr/Resume-Matcher)
+
+My fork aims to help me in building my system of automating my job search.
+
 [![Resume Matcher](Assets/img/header_image.png)](https://www.resumematcher.fyi)
 
 <div align="center">
